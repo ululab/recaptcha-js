@@ -25,7 +25,7 @@ async function test () {
         });
 
         console.log(data.getResponse());
-        
+        return;
     }
 }
 
