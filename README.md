@@ -1,6 +1,11 @@
 # recaptcha-js
 Classe helper js per verifica recaptcha di Google
 
+Using npm:
+```bash
+$ npm install @uluab/recaptcha-js
+```
+
 ```js
 const Recaptcha = require('@ululab/recaptcha-js');
 
