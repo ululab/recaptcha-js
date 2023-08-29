@@ -1,0 +1,8 @@
+###################
+# Node js
+###################
+.env
+node_modules
+logs
+package-lock.json
+test.js
