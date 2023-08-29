@@ -27,11 +27,12 @@ async function test () {
 test()
 
 ```
-### Step
+
 ```js
 // console.log(data.getResponse());
 { success: false, 'error-codes': [ 'invalid-input-response' ] }
 ```
+### Step
 
 Inclusione pacchetto
 ```js
