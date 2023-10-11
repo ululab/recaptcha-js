@@ -3,6 +3,16 @@
 ###################
 .env
 node_modules
-logs
 package-lock.json
+
+###################
+# npm
+###################
+.npmrc
+
+###################
+# Custom
+###################
+logs
+test
 test.js
