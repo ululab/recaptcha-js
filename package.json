@@ -1,6 +1,6 @@
 {
   "name": "@ululab/recaptcha-js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Verifica google recaptcha con js",
   "main": "index.js",
   "scripts": {
