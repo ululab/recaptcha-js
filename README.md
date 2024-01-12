@@ -3,7 +3,7 @@ Classe helper js per verifica recaptcha di Google
 
 Using npm:
 ```bash
-$ npm install @ululab/recaptcha-js
+npm install @ululab/recaptcha-js
 ```
 
 ```js
